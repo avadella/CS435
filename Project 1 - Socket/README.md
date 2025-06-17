@@ -43,4 +43,5 @@ The Socket class should include:
 - Socket API from [Computer Networks: A Systems Approach](https://book.systemsapproach.org/foundation/software.html#socket-apiLinks)
 - Sample programs in [cs435 github](https://github.butler.edu/npartenh/cs435/tree/main/sockets/c%2B%2B)
 - Diagrams of typical client and server operation:
-
+![socket-img](https://github.com/user-attachments/assets/f8037a0d-3a28-461d-b5cf-a5f0b25e590d)
+![socket-img-2](https://github.com/user-attachments/assets/7c039be9-2951-4650-8af7-554fc2c821ef)
