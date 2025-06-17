@@ -1,5 +1,5 @@
 # Design a Socket Object
-## Design and Write an object in C++ which implements a Socket class to wrap the C-style socket API
+## Create an Object in C++ to Implement a Socket Class that Wraps the C-style Socket API
 This is an object-oriented starting point for other assignments, and we will create some of the code together after reviewing ideas together.
 
 ## Socket Class Design
@@ -42,5 +42,5 @@ The Socket class should include:
 ## Resources
 - Socket API from [Computer Networks: A Systems Approach](https://book.systemsapproach.org/foundation/software.html#socket-apiLinks)
 - Sample programs in [cs435 github](https://github.butler.edu/npartenh/cs435/tree/main/sockets/c%2B%2B)
-- Diagrams of typical client and server operation: ![img-1](C:\Users\annav\Documents\GitHub\CS435\README-imgs\socket-img.png) ![img-2](C:\Users\annav\Documents\GitHub\CS435\README-imgs\socket-img-2.png)
+- Diagrams of typical client and server operation:
 
