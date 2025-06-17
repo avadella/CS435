@@ -8,4 +8,4 @@ Write a mail user agent in C++ which uses your Socket class from the first assig
 - The program must create and use a Socket object
 - The program must successfully send an email to the maildev server on thomas.butler.edu
 - Your submission should be well organized and include remarks where needed
-- Possible Extra Credit --> Send an HTML email instead of a plain text email
+- Possible Extra Credit: Send an HTML email instead of a plain text email
