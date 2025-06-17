@@ -40,8 +40,7 @@ The Socket class should include:
 - Account for IPv4 or AF_INET only
 
 ## Resources
-- Get started using this [code](https://github.butler.edu/npartenh/SocketLinks)
 - Socket API from [Computer Networks: A Systems Approach](https://book.systemsapproach.org/foundation/software.html#socket-apiLinks)
-- Sample programs from the [manual (man) page] (https://man7.org/linux/man-pages/man3/getaddrinfo.3.htmlLinks)
 - Sample programs in [cs435 github](https://github.butler.edu/npartenh/cs435/tree/main/sockets/c%2B%2B)
-- Diagrams of typical client and server operation: ![img-1](README-imgs\socket-img.png) ![img-2](README-imgs\socket-img-2.png)
+- Diagrams of typical client and server operation: ![img-1](C:\Users\annav\Documents\GitHub\CS435\README-imgs\socket-img.png) ![img-2](C:\Users\annav\Documents\GitHub\CS435\README-imgs\socket-img-2.png)
+
