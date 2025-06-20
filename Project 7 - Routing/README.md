@@ -3,6 +3,7 @@
 Implement Dijkstra's algorithm to find the shortest path from a specified source to destination.  For the graph below, the source is U.
 
 #### Graph/Network
+![graph-cs435](https://github.com/user-attachments/assets/8d705fc7-d9e1-4bcc-9989-c9884d44fed9)
 
 ## Project Implementation 
 Create a Vertex class (or whatever you think is appropriate for a router / node / vertex in a graph).
