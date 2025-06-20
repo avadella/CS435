@@ -1,0 +1,11 @@
+6 U
+U V 5
+U X 5
+U W 9
+V W 8
+V X 8
+X W 3
+X Y 7
+W Y 7
+W Z 5
+Y Z 5
