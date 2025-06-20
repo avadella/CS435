@@ -6,9 +6,6 @@ Write an HTTP Message Object and use it to make an HTTP request. This message ob
 - The program must compile and run on thomas.butler.edu
 - The program must use your socket object
 
-## Additional Notes
-There are a couple approaches to storing HTTP headers including a vector or an array of a new object or struct type. However, a more straightforward way may be to use an existing option like an [unordered map](https://en.cppreference.com/w/cpp/container/unordered_map.html) in C++.
-
 You will create a new class or classes for HTTP requests and responses. Your object should support GET, HEAD and POST methods (but only one at a time).  
 
 NOTE: you may structure this several different ways, similar to the client and server socket class.  Create your data and methods appropriately, the specifics below should be helpful to know what you classes might need for the next assignment.
